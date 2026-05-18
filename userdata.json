@@ -1,14 +1,16 @@
 [
     {
         "device_id": "e38a7c44b2b07fa0",
-        "key": "hello Kitty",
-        "expirydate": "17-05-2026",
+        "username": "jose",
+        "password": "carloszin",
+        "expirydate": "18-05-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "17-05-2026",
+        "device_id": "4587d844dedec2f1",
+        "username": "cliiente01",
+        "password": "key-5070",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
@@ -16,28 +18,16 @@
 [
     {
         "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "17-05-2026",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "17-05-2026",
-        "Allowoffline": false
-    }
-]
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "17-05-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "17-05-2026",
+        "username": "user3",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
@@ -45,14 +35,16 @@
 [
     {
         "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "17-05-2026",
+        "username": "user4",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "17-05-2026",
+        "username": "user5",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
@@ -60,14 +52,16 @@
 [
     {
         "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "17-05-2026",
+        "username": "user6",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "17-05-2026",
+        "username": "user7",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
@@ -75,6 +69,70 @@
 [
     {
         "device_id": "device123",
+        "username": "user8",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user9",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
+
+[
+    {
+        "device_id": "device123",
+        "username": "user10",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user11",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
+
+    [
+    {
+        "device_id": "device123",
+        "username": "user12",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user13",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
+
+[
+    {
+        "device_id": "device123",
+        "username": "user14",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user15",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]        "device_id": "device123",
         "key": "key12345",
         "expirydate": "17-05-2026",
         "Allowoffline": true
